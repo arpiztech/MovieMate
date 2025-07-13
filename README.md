@@ -33,6 +33,9 @@ MovieMate is a React-based movie search and watchlist app powered by the OMDb AP
 - Git & GitHub
 - Vercel (for deployment)
 
+## 🔧 Setup Instructions
+
+### 1. Clone the repository
 ## 🚀 Getting Started
 
 Clone the repo and run locally:
