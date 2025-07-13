@@ -2,6 +2,9 @@
 
 MovieMate is a React-based movie search and watchlist app powered by the OMDb API. It allows users to search for movies, view details, and save their favorites or watchlist.
 
+<p align="center">
+  <img src="thumbnail.png" alt="MovieMate UI Preview" width="700"/>
+</p>
 
 
 ## 🔗 Links
