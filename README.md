@@ -1,3 +1,45 @@
+# 🎬 MovieMate
+
+MovieMate is a React-based movie search and watchlist app powered by the OMDb API. It allows users to search for movies, view details, and save their favorites or watchlist.
+
+## 🔗 Live Demo
+
+👉 [https://moviemate.vercel.app](https://moviemate.vercel.app)
+
+## 🛠️ Features
+
+- 🔍 Search movies using the OMDb API
+- 🎞️ View movie title, poster, release year, and more
+- ❤️ Add/remove from Favorites
+- 📺 Add/remove from Watchlist
+- 📱 Responsive design (mobile-friendly)
+- 🎨 Clean UI using React components and CSS
+
+## 🧰 Tech Stack
+
+- React.js (Functional Components + Hooks)
+- OMDb API
+- Git & GitHub
+- Vercel (for deployment)
+
+## 🚀 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/arpiztech/moviemate.git
+cd moviemate
+npm install
+npm start
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
