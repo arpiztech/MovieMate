@@ -33,6 +33,31 @@ MovieMate is a React-based movie search and watchlist app powered by the OMDb AP
 - Git & GitHub
 - Vercel (for deployment)
 
+🌐 Deployment
+The app is deployed on Vercel.
+
+📍 Live URL:
+👉 https://moviemate.vercel.app
+
+To redeploy:
+
+Push changes to the main branch on GitHub
+
+Vercel auto-builds and deploys
+
+📌 API Reference
+OMDb API: https://www.omdbapi.com
+
+Search endpoint used:
+https://www.omdbapi.com/?s={searchTerm}&apikey={API_KEY}
+
+
+🙌 Author
+Made with ❤️ by arpiztech
+📫 GitHub
+
+
+   
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repository
